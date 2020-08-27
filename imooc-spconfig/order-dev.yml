@@ -8,3 +8,7 @@ spring:
     name: order
 env:
    dev4
+
+person:
+  name: timo牛
+  age: 18
