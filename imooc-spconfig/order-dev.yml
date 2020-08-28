@@ -7,7 +7,7 @@ spring:
   application:
     name: order
 env:
-   dev4
+   github - dev4
 
 person:
   name: timo牛
